@@ -1,0 +1,20 @@
+html>
+  <head></head>
+
+  <body>
+    <p>
+        <h2>\\intro\\</h2>
+      hy___ my name is dilpavittar pal singh, and i am taking precourse from geekster that will be go for three days 
+      and after done precourse ,we have to submit the assignment that give to us.
+       
+    
+    </p>
+    <p>
+        <h2>"geekster"</h2>
+        the policy of geekster is pay after placement. in this course you will get 6 month training and you dont have need
+        to submit any fee until you get the job..........       
+    </p>
+
+    
+  </body>
+</html>
